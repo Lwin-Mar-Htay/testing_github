@@ -1,2 +1,3 @@
 <?php 
-echo "Hello Email"
+echo "Hello Email";
+echo "Second Email";
